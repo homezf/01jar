@@ -1,0 +1,8 @@
+"spider": "./jar/spider.jar;md5;16e47f71bf07c147eaba17f9c2808343",
+潇洒
+
+"spider": "./jar/og.jar;md5;8fd1a7eb6c700c7036319c664bf4f62c",
+欧歌
+
+"spider": "http://xz.rihou.cc:88/xz/api.php/vox.jar;md5;956c90df1e5219ba7cb75ab31af36361",
+VOX
